@@ -1,2 +1,2 @@
 # brick
-a break braker game with c++ without using any graphical library 
+a brick braker game with c++ without using any graphical library 
